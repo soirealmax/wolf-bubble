@@ -1,6 +1,6 @@
 # 🐺 Wolf Bubble
 
-WolfBubble is a simple bubble shooter game built with **HTML5 & JavaScript**.  
+Wolf Bubble is a simple bubble shooter game built with **HTML5 & JavaScript**.  
 Shoot and match bubbles to score points!
 
 ---
