@@ -16,4 +16,4 @@ Shoot and match bubbles to score points!
 ## 📸 Screenshots
 Here are some preview images of the game:
 
-![Gameplay Screenshot]
+![Gameplay Screenshot] (./assets/images/1.jpg)
